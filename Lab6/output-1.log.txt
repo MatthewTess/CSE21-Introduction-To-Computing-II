@@ -1,0 +1,10 @@
+﻿Students.txt
+Abey matches with Melissa with the score 60 
+John matches with Jeff with the score 100 
+Craig has no matches. 
+
+
+FullRoster.txt
+Alan matches with Alexander with the score 100
+Daniel matches Cynthia with score 50
+Andrew has not matches.
